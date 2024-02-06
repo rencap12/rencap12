@@ -4,12 +4,13 @@ Welcome to my GitHub profile!  I am passionate about software development, curre
 
 ## 🔧 Languages & Tools
 
-- 💻 **C++ | Java | HTML | CSS | Javascript | SQL | Kotlin** 
-- 🛠️ **React | Node | Express | Docker | SQL Developer | Android Studio | Git** 
+- 💻 **C++ | C | Java | HTML | CSS | Javascript | Python | SQL | Kotlin** 
+- 🛠️ **React | Node | Express | Docker | SQL Developer | PostgreSQL | Android Studio | Git** 
 
 ## 🌱 Currently Learning
 - **UI/UX Design**
 - **Stack Development**
+- **Android Application Development**
 
 ## 🤝 Let's Connect 🔥
 
