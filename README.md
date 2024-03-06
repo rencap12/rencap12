@@ -9,7 +9,7 @@ Welcome to my GitHub profile!  I am passionate about software development, curre
 
 ## 🌱 Currently Learning
 - **UI/UX Design**
-- **Stack Development**
+- **Full Stack Development**
 - **Android Application Development**
 
 ## 🤝 Let's Connect 🔥
