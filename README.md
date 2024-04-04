@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Reneca
+# Hi there! 👋 I'm Reneca❗
 
 Welcome to my GitHub profile!  I am passionate about software development, currently working with 💻 **Full-Stack development** and 📱 **Android Application developement**; however, I am also looking into **cybersecurity and quantitative development**. Here you'll find a mix of projects here that reflect what I have done. Feel free to explore!
 
