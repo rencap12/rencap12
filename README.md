@@ -8,9 +8,9 @@ Welcome to my GitHub profile!  I am passionate about software development, curre
 - 🛠️ **React | Node | Express | Android Studio | Docker | Oracle SQL Developer | PostgreSQL | Git** 
 
 ## 🌱 Currently Learning
-- **UI/UX Design**
 - **Full Stack Development**
 - **Android Application Development**
+- **UI/UX Design**
 
 ## 🤝 Let's Connect 🔥
 
