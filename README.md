@@ -15,5 +15,5 @@ Welcome to my GitHub profile!  I am passionate about software development, curre
 ## 🤝 Let's Connect 🔥
 
 - **LinkedIn: www.linkedin.com/in/renecacapuno**
-- **Email: rcapuno@ufl.edu**
+- **Email: rcapuno@ufl.edu | capunoreneca@gmail.com**
   
