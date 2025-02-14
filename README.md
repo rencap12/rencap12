@@ -5,7 +5,7 @@ Welcome to my GitHub profile!  I am passionate about software development, curre
 ## 🔧 Languages & Tools
 
 - 💻 **Python | JavaScript | C++ | C | Java | Kotlin | Scala | HTML | CSS | SQL** 
-- 🛠️ **React | Node | Express | Android Studio | PostgreSQL | Git | Docker | Django | Snowflake | AWS | Postman | Linux | Figma | SFML | Jitsi** 
+- 🛠️ **React | Node | Express | Android Studio | PostgreSQL | Git | Docker | Snowflake | AWS | Postman | Linux | Figma | SFML | Jitsi** 
 
 ## 🌱 Currently Learning
 - **Full Stack Development**
