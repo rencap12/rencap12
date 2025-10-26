@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Reneca❗
 
-Welcome to my GitHub profile! I am a New Grad SWE from the University of Florida, currently working with 💻 **Full-Stack development** and 📱 **Android Application development**. Here you'll find a mix of projects that reflect what I have done. Feel free to explore!
+Welcome to my GitHub profile! I am a recent Computer Science grad from the University of Florida, currently working with 💻 **Full-Stack development** and 📱 **Android Application development**. Here you'll find a mix of projects that reflect what I have done. Feel free to explore!
 
 ## 🔧 Languages & Tools
 
