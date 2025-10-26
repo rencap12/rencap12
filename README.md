@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a recent Computer Science grad from the Unive
 ## 🔧 Languages & Tools
 
 - 💻 **Python | JavaScript | TypeScript | C++ | C | Java | Kotlin | Scala | HTML | CSS | SQL** 
-- 🛠️ **React | Node | Express | Docker | Android Studio | PostgreSQL | Git | Docker | Snowflake | AWS | Postman | Linux | Figma | SFML | Jitsi** 
+- 🛠️ **React | Node | Express | Docker | Android Studio | PostgreSQL | Git | Docker | Snowflake | AWS | Postman | Linux | Figma | Selenium | Jitsi** 
 
 ## 🌱 Currently Learning
 - **Full Stack Development**
